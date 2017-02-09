@@ -1,6 +1,6 @@
-function weather( cityId ) {
+function weather( cityId, el ) {
 
-  const container = document.getElementById('weather');
+  const container = document.getElementById(el);
   const base_url = 'http://query.yahooapis.com/v1/public/yql';
   const yql_query = encodeURIComponent(`select * from weather.forecast where woeid=${cityId} AND u="c"`);
   const yql_query_url = `${base_url}?q=${yql_query}&format=json`;

@@ -10,13 +10,16 @@ Make sure to include the stylesheet which references the font files:
 <link rel="stylesheet" src="weather-icons.css">
 ```
 
-and initialize the weather after including the JavaScript. The function takes a [WOEID](http://woeid.rosselliot.co.nz/lookup/) (Where On Earth IDentifier) parameter as a string.
+and initialize the weather after including the JavaScript. The function takes a [WOEID](http://woeid.rosselliot.co.nz/lookup/) (Where On Earth IDentifier) parameter as a string, as well as the ID of the element into which you wish to inject your widget.
 
 ```
+
+<div id="weather"></div>
+
 <script src="weather.js"></script>
 <script>
     const vancouver = '9807';
-    weather( vancouver );
+    weather( vancouver, 'weather' );
 </script>
 ```
 
