@@ -13,7 +13,6 @@ Make sure to include the stylesheet which references the font files:
 and initialize the weather after including the JavaScript. The function takes a [WOEID](http://woeid.rosselliot.co.nz/lookup/) (Where On Earth IDentifier) parameter as a string, as well as the ID of the element into which you wish to inject your widget.
 
 ```
-
 <div id="weather"></div>
 
 <script src="weather.js"></script>
