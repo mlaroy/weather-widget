@@ -15,7 +15,7 @@ and initialize the weather after including the JavaScript. The function takes a 
 ```
 <script src="weather.js"></script>
 <script>
-    // const vancouver = '9807';
+    const vancouver = '9807';
     weather( vancouver );
 </script>
 ```
