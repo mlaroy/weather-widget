@@ -21,7 +21,7 @@
       "description": "severe thunderstorms"
     },
     {
-      "class": "wi-tornado",
+      "class": "wi-thunderstorm",
       "number": "4",
       "description": "thunderstorms"
     },
