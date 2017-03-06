@@ -25,3 +25,7 @@ and initialize the weather after including the JavaScript. The function takes a 
 
 ### Notes
 Make sure you read about [rate limits](https://developer.yahoo.com/weather/#ratelimits) and [attribution guidelines](https://developer.yahoo.com/attribution/)
+
+
+### Release Notes
+This started as an experiment. Without an official release as of yet, I'm hoping to release version 1.0 as it is, with a little refinement. I'm aiming for version 2.0 to be a React app.
