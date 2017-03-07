@@ -1,0 +1,19 @@
+{
+  "name": "JavaScript Weather Application",
+  "version": "1.0.0",
+  "description": "A JavaScript app to display weather information from Yahoo's weather API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlaroy/weather-widget.git"
+  },
+  "author": "Michael LaRoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mlaroy/weather-widget/issues"
+  },
+  "homepage": "https://github.com/mlaroy/weather-widget#readme"
+}
