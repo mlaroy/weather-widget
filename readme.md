@@ -1,4 +1,7 @@
 # Weather Widget
+
+See [the demo](http://weather.mikelaroy.ca/) in action.
+
 A combination of [Bootstrap's Weather Icons](http://erikflowers.github.io/weather-icons) and Yahoo's Weather API.
 
 While the entire icon font is included, this application only uses a subset of the icons based on the weather codes provided by [Yahoo's API](https://developer.yahoo.com/weather/documentation.html#codes)
@@ -22,7 +25,6 @@ and initialize the weather after including the JavaScript. The function takes a 
 </script>
 ```
 
-See in [in action](http://weather.mikelaroy.ca/).
 
 ### Notes
 Make sure you read about [rate limits](https://developer.yahoo.com/weather/#ratelimits) and [attribution guidelines](https://developer.yahoo.com/attribution/)
