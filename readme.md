@@ -1,6 +1,10 @@
 # Weather Widget
 
-See [the demo](http://weather.mikelaroy.ca/) in action.
+## UPDATE
+
+As of Jan 3, 2019 Yahoo's weather API has been cancelled.
+
+---
 
 A combination of [Bootstrap's Weather Icons](http://erikflowers.github.io/weather-icons) and Yahoo's Weather API.
 
